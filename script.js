@@ -1,4 +1,5 @@
-$(Document).ready(function()) {
-  $("submit").click(function());
-  alert("grade");
+$(Document).ready(function()){
+  $(".form").on("button", function(event))
+  event.preventDefault();
+  var
 }
